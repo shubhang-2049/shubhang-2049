@@ -15,8 +15,8 @@
 <h2 align="left">💻My coding profiles:</h2>
 <p align="left">
 
-<a href="https://www.codechef.com/users/deku0221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deku0221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deku0221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="deku0221" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/deku0221" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deku0221" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deku0221" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="deku0221" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">🚀Skills</h2>
@@ -27,7 +27,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/shubhang-kapoor-12b838185"><img src="https://img.shields.io/badge/-Shubhang%20Kapoor-017ef8?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="Shubhangshubh@gmail.com"><img src="https://img.shields.io/badge/-Shubhangshubh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/shubhkap"><img src="https://img.shields.io/badge/-@shubhkap-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shubhang-kapoor-12b838185" target="_blank"><img src="https://img.shields.io/badge/-Shubhang%20Kapoor-017ef8?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:Shubhangshubh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Shubhangshubh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/shubhkap" target="_blank"><img src="https://img.shields.io/badge/-@shubhkap-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
